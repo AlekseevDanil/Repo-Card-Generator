@@ -65,7 +65,7 @@ Tip: There are clear comments in the code that will help you better understand h
 Here is the main **CardGenerator()** class.
 
 Params:
-- _config_filepath_ (optional, type: str) - path to configuration file. [!] Mandatory config.yml name.\
+- _config_filepath_ (optional, type: str) - path to configuration file. [!] Mandatory config.yml name.
 ```python
 from beautifulrepo.generator import CardGenerator
 
