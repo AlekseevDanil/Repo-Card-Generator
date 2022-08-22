@@ -1,0 +1,12 @@
+image:
+  shape:
+    width: 1280
+    height: 640
+  save_path: "./repo_card.jpg"
+  show: True
+
+
+content:
+  repository_name: "Your repository name"
+  repository_author: "Your profile name"
+⭐️
