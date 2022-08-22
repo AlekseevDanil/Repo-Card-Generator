@@ -1,5 +1,6 @@
 # Repository Card Generator 🌠
 
+
 ![](beautifulrepo/assets/imgs/example.jpg)
 
 ## Overview
