@@ -28,7 +28,7 @@ content:
 ```
 Here we need to change 2 important parameters _repository_name_, _repository_author_ and 1 optional _save_path_ (full path to the directory where the card is saved)
 
-After we go to the terminal directly from the project and write two command `pip3 install -r -U requirements.txt` and `python3 main.py "path to config.yml"`\
+After we go to the terminal directly from the project and write two command `pip3 install -U -r requirements.txt` and `python3 main.py "path to config.yml"`\
 That's all! Our first automated repository card is ready 😊
 
 ## Mini Documentation
