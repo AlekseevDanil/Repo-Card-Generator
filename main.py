@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # Created by Danil Alekseev on 22.09.2022.
-
 from beautifulrepo.generator import CardGenerator
 import sys
 
