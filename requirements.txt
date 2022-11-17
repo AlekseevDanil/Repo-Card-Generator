@@ -1,5 +1,5 @@
 emoji==2.0.0 # to properly display emoji
 pilmoji==2.0.2 # to properly display emoji
 loguru==0.6.0 # for convenient logging setup
-Pillow==9.2.0 # for image processing
+Pillow==9.3.0 # for image processing
 PyYAML>=5.4 # to read the configuration file
